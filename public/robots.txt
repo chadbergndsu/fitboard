@@ -1,0 +1,9 @@
+# Fitboard
+User-agent: *
+Allow: /
+Disallow: /portal
+Disallow: /login
+Disallow: /api/
+Disallow: /card/
+
+Sitemap: https://mg-recruiting-source.vercel.app/sitemap.xml
